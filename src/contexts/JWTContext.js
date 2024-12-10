@@ -127,7 +127,7 @@ function AuthProvider({ children }) {
       method: 'post',
       url: AUTH_URL,
       headers: { 
-        'Authorization': 'Basic d2VicGVybWl0OndlYnBlcm1pdDEyMw==', 
+        'Authorization': 'Basic XXXXXXXXXXXXXXXXXXXXXXXX==',
         'Content-Type': 'application/x-www-form-urlencoded',
        
       },
